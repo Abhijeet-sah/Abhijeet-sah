@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science Engineering
 - 📫 You can reach me via email:- manishsinghaniya402@gmail.com
-- 😄 Pronouns: Stille yet Studying....
+- 😄 Pronouns:HE
 
 <!---
 Abhijeet-sah/Abhijeet-sah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
