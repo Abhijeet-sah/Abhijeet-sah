@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Machine Learning and Data Science projects using real-world datasets  <br><br>👯 I’m looking to collaborate on  <br>Data Science, Machine Learning, and Python-based projects  <br><br>🤝 I’m looking for help with  <br>Model optimization, feature engineering, and real-world ML use cases  <br><br>🌱 I’m currently learning  <br>Advanced Machine Learning algorithms, SQL optimization, and System Design basics  <br><br>💬 Ask me about  <br>Python, Java, Data Structures & Algorithms, SQL, and Machine Learning  <br><br>⚡ Fun fact  <br>I enjoy breaking down complex problems into simple, logical solutions<br>
+🔭 I’m currently working on  <br>Machine Learning and Data Science projects using real-world datasets  <br><br>👯 I’m looking to collaborate on  <br>Data Science, Machine Learning, and Python-based projects  <br><br>🤝 I’m looking for help with  <br>Model optimization, feature engineering, and real-world ML use cases  <br><br>🌱 I’m currently learning  <br>Advanced Machine Learning algorithms, SQL optimization, and System Design basics  <br><br>💬 Ask me about  <br>Python, Java, Data Structures & Algorithms, SQL, and Machine Learning  <br><br>
 
 
 ## 🌐 Socials:
